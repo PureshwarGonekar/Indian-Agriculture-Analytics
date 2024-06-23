@@ -3,6 +3,8 @@
 This project is a React application that performs analytics on an Indian Agriculture dataset. Given as assignment at Manufac Analytics Private Limited.
 
 ## Screenshots
+![Screenshot (392)](https://github.com/PureshwarGonekar/Indian-Agriculture-Analytics/assets/88015818/e6ccde10-686e-4140-a3e1-6d05734b229e)
+![Screenshot (393)](https://github.com/PureshwarGonekar/Indian-Agriculture-Analytics/assets/88015818/85df4e21-02f4-410b-b8de-120306ccf420)
 
 ## Features
 
